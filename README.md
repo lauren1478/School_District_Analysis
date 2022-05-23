@@ -7,14 +7,21 @@ The purpose of this analysis was to investigate the math and readings scores at 
 
 The district summary data showed a quite small decrease in scores with the overall passing only decreasing by 0.3%.
 
-Inclusive of Students Scores:
+Inclusive of All Students Scores:
 ![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/All_district_summary_use%20this.png)
 
 Exclusive of 9th Grade Math and Reading Scores:
 ![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/No_9th_graders_district_summary.png)
 
-
 #### How is the school summary affected?
+
+After excluding the 9th grade math and reading scores, the school summary showed much greater impact on the data. The math passing percentage dropped by 26.3%, the reading passing percentage dropped by 27.7%, and the overall passing percentage dropped by 25.8%.
+
+Inclusive of All Students Scores:
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/THS_Original.png)
+
+Exclusive of 9th Grade Math and Reading Scores:
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/THS_no%209th%20graders.png)
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
