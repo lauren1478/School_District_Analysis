@@ -61,7 +61,7 @@ Again, very small difference and no difference when rounding to the whole number
 
 ##### Scores by school type
 
-
+Though THS is a charter school and we saw that it had a large descrepency against other schools when looking at each individual school. However, the data set may be so large that replacing 9th grade scores does not have an incremental affect on the all charter schools as an aggregate.
 
 ![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/type%20original.png)
 
