@@ -34,8 +34,18 @@ Exclusive of 9th Grade Math and Reading Scores:
 ![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/all%20schools%20no%209th%20grade.png)
 
 ### How does replacing the ninth-grade scores affect the following:
+
 ##### Math and reading scores by grade
+Replacing the 9th grade scores inserted a NaN where the number should be. Unfortunately that is not being reflected on my reading scores graph.
+
+Math
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/grades%20math%20scores.png)
+
+Reading
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/grades%20reading%20scores.png)
+
 ##### Scores by school spending
+
 ##### Scores by school size
 ##### Scores by school type
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
