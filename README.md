@@ -25,6 +25,14 @@ Exclusive of 9th Grade Math and Reading Scores:
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+Originally, the data showed that Thomas High School was very much in line with other charter schools. Once the 9th grade scores were replaced, the school became the worst performing charter school by almost 25% overall passing rate.
+
+Inclusive of All Students Scores:
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/all%20schools%20original.png)
+
+Exclusive of 9th Grade Math and Reading Scores:
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/all%20schools%20no%209th%20grade.png)
+
 ### How does replacing the ninth-grade scores affect the following:
 ##### Math and reading scores by grade
 ##### Scores by school spending
