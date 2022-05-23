@@ -45,7 +45,26 @@ Reading
 ![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/grades%20reading%20scores.png)
 
 ##### Scores by school spending
+There is very minimal difference in school spending, and no difference if rounding to the whole number.
+
+Original
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/spending%20original.png)
+
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/spending%20no%209th%20grade.png)
 
 ##### Scores by school size
+Again, very small difference and no difference when rounding to the whole number.
+
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/size%20original.png)
+
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/size%20no%209th.png)
+
 ##### Scores by school type
+
+
+
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/type%20original.png)
+
+![Alt text](https://github.com/lauren1478/School_District_Analysis/blob/main/type%20no%209th.png)
+
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
